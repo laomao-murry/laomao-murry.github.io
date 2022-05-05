@@ -1,2 +1,1 @@
-+ web title icon
-  /medium.png
++ web title icon: image/medium.png
